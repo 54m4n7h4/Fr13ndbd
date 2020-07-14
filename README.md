@@ -10,3 +10,8 @@ chmod +x
 ```
 Maintenant on peut utiliser le script de n'importe où.
 Il suffit juste de taper fr13ndbd dans le terminal
+
+
+
+
+>NB: En cours de développement
